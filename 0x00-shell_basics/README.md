@@ -1,0 +1,1 @@
+pwd is use to comfirm the working directory
